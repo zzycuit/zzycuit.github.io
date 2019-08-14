@@ -37,7 +37,7 @@ author:
   type      : # "person" (default), "organization"
   name      : Zzy
   url       :
-  avatar    : # path or url of avatar image
+  avatar    : https://i.loli.net/2019/08/14/5MlLXAKh4YzcmF3.jpg
   bio       : I am an amazing person.
   email     :
   facebook  : # "user_name" the last part of your profile url, e.g. https://www.facebook.com/user_name
